@@ -1,0 +1,10 @@
+{
+  "python.defaultInterpreterPath": "/opt/anaconda3/envs/flask-tutorial/bin/python",
+  "python.condaPath": "/opt/anaconda3/bin/conda",
+  "python.analysis.extraPaths": [
+    "/opt/anaconda3/envs/flask-tutorial/lib/python3.12/site-packages"
+  ],
+  "files.associations": {
+    "*.html": "jinja-html"
+  }
+}

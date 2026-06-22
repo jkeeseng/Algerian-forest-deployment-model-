@@ -1,0 +1,12 @@
+name: flask-tutorial
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - flask
+  - ipykernel
+  - jupyter
+  - numpy
+  - pandas
+  - scikit-learn
+
